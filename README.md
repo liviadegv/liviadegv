@@ -1,7 +1,7 @@
 ### Ola! Eu sou a Livia Gouveia 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/livia-gouveia-82a4a3246/)
-[![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([gouveialivia731@gmail.com](mailto:gouveialivia731@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouveialivia731@gmail.com)
 
 ![Livia GitHub stats](https://github-readme-stats.vercel.app/api?username=liviadegv&show_icons=true&theme=radical)
 
