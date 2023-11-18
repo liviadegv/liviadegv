@@ -14,5 +14,5 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
   
 </div> <br/>
-
-Ainda cursando Sistemas de informaçao na Universidade Veiga de Almeida, Tenho conhecimento em Power BI, Em constante busca por aprendizado!
+Tenho conhecimento em Power BI e outros sistemas. 
+Ainda cursando Sistemas de informaçao na Universidade Veiga de Almeida, Em constante busca por aprendizado!
